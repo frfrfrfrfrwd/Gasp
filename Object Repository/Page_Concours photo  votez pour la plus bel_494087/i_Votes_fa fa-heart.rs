@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Votes_fa fa-heart</name>
+   <tag></tag>
+   <elementGuidId>44debb30-324e-4d58-afc0-c66d17810a46</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>i.fa.fa-heart</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='vote-box']/a/i</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>bc2b8b6a-7000-4329-be2f-09d375b3de31</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fa fa-heart</value>
+      <webElementGuid>8baf1d5d-5342-42c5-ad03-22345fed17ef</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;gallery_image&quot;)/div[@class=&quot;gallery-zoom-container&quot;]/div[@class=&quot;gallery-container&quot;]/div[@class=&quot;gallery-diapo diapo-simple diapo1&quot;]/div[@class=&quot;thumbnail-info&quot;]/div[@class=&quot;thumbnail-wrapper&quot;]/div[@class=&quot;vote-type&quot;]/div[@id=&quot;vote-box&quot;]/a[@class=&quot;simple-vote&quot;]/i[@class=&quot;fa fa-heart&quot;]</value>
+      <webElementGuid>453756e9-1fbd-4b4c-89d1-d1f6a1bf7b79</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Page_Concours photo  votez pour la plus bel_494087/iframe_nous organisons un concours photo ju_500439</value>
+      <webElementGuid>bc89bd7f-5cec-4cfe-9b07-3adb914c1760</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='vote-box']/a/i</value>
+      <webElementGuid>cdeb277a-e243-410b-8c13-37459fab8dbb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/a/i</value>
+      <webElementGuid>430ae6f3-3f06-4dc9-be1a-4905ac148f95</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

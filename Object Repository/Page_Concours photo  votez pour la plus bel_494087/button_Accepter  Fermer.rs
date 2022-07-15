@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Accepter  Fermer</name>
+   <tag></tag>
+   <elementGuidId>4b59fcc8-2c3b-4aea-80da-4890c0328453</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#didomi-notice-agree-button</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='didomi-notice-agree-button']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>e174ba64-c646-4204-99a0-1137679d4773</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>didomi-notice-agree-button</value>
+      <webElementGuid>88ec4e15-8769-4be6-929f-4aa5dbd772aa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>didomi-components-button didomi-button didomi-dismiss-button didomi-components-button--color didomi-button-highlight highlight-button</value>
+      <webElementGuid>f5895c03-48b4-4506-b94a-93a33b0c1e01</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>Accepter notre traitement des données et fermer</value>
+      <webElementGuid>7e0c7ca8-082f-418d-971f-43378334e7cd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Accepter &amp; Fermer</value>
+      <webElementGuid>035d8b9a-c7c8-4c94-8bbe-ff81f0194fc5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;didomi-notice-agree-button&quot;)</value>
+      <webElementGuid>3f9da091-18ef-4bbf-a494-27653426fc30</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@id='didomi-notice-agree-button']</value>
+      <webElementGuid>9658a0da-6bac-4ba9-a934-300ca6eb9f5b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='buttons']/button[2]</value>
+      <webElementGuid>662a1528-cd4d-447c-86b9-5899c9abac72</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='En savoir plus'])[1]/following::button[1]</value>
+      <webElementGuid>11c4f63b-ce68-479b-89df-d9280ace12b5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=', Stocker et/ou accéder à des informations sur un terminal'])[1]/following::button[2]</value>
+      <webElementGuid>3271b57b-0626-46bc-a70e-473a8290b16c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Le Direct'])[1]/preceding::button[1]</value>
+      <webElementGuid>4722f64d-a6db-4cea-9bf1-3c68ec299316</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button[2]</value>
+      <webElementGuid>8f54cd54-89ef-422c-bd33-0e7dc50a40dc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@id = 'didomi-notice-agree-button' and (text() = 'Accepter &amp; Fermer' or . = 'Accepter &amp; Fermer')]</value>
+      <webElementGuid>a4eeb8fa-7738-4733-b2e0-c46370c30f0e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
