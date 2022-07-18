@@ -23,8 +23,6 @@ WebUI.navigateToUrl('https://lesechosdutouquet.nordlittoral.fr/147787/article/20
 
 WebUI.setViewPortSize(1920, 1080)
 
-WebUI.takeFullPageScreenshot()
-
 WebUI.click(findTestObject('Object Repository/Page_Concours photo  votez pour la plus bel_494087/button_Accepter  Fermer'))
 
 WebUI.delay(12)
