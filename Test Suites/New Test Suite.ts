@@ -375,4 +375,221 @@
       <testCaseId>Test Cases/Vote</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
+   <testCaseLink>
+      <guid>bda38715-5bca-4971-ae06-dcd81721e400</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Vote</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>d99be145-5ea9-4fb6-80a0-4194a7612da4</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Vote</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>9fc55b96-ca1e-40a3-8b7f-a9891acc19c0</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Vote</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>1012ea09-5264-4edd-801c-a0bce846653a</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Vote</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>75ab24e6-3924-4417-b342-704e2b308f7d</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Vote</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>23ce2df6-b296-4095-a7ca-951244866e5d</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Vote</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>5a0e11c1-7bed-4661-bd44-7826f8a8818b</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Vote</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>4ef24cc2-6bcd-4a37-93b5-8bd1958ea259</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Vote</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>21222a0e-fe9a-4b77-878a-871cd09bbc4f</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Vote</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>9c19c973-4cd2-496c-8749-1960bd03b90c</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Vote</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>d6e23a10-01de-4765-b5f7-dd8856b80636</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Vote</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>f7d2c9d5-ba65-41b5-a247-3f518c6157d7</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Vote</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>5827e9e9-8bd1-422e-96d3-fdbb9bafbfa9</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Vote</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>dbb604d4-d07a-4677-a59a-792b7cc85be8</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Vote</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>6e665849-6122-471e-9457-2eca574509c3</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Vote</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>3f671b89-7eb4-4bcb-b84a-6f9c8af74b12</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Vote</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>99e55fd6-5b5a-4523-a4dd-d19fba9d409b</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Vote</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>55f6ad46-f258-4734-b1a2-10115502d33b</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Vote</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>c67b401d-e0f1-4d83-892b-c272f47ad6c1</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Vote</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>8e015236-052d-4d52-ae13-348e020a0cca</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Vote</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>07d7ff83-24f7-4af2-8585-cd5479259007</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Vote</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>42ef69f7-6a30-4bb0-8084-762e97c78a49</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Vote</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>feb45337-99a0-477b-9471-125f456c2641</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Vote</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>d48df6ae-715c-4f69-93a8-6d049e68f67e</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Vote</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>2a56cbf6-c7d9-49d7-a6ca-9b46582c0a07</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Vote</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>291a8d24-94f5-403a-a537-95da2e804628</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Vote</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>e3cfbd58-52d6-469d-93b9-b05fa9a1ce96</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Vote</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>a2f61b56-0891-4dcd-afe0-2a15cf96552f</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Vote</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>f6068bad-2b74-4721-86c2-527fca0d4c9a</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Vote</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>55ef8cf4-4a4b-40b7-b3c5-cd75607393d5</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Vote</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>c6821b42-c0ae-4c32-acf9-df1d9c7578fd</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Vote</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
 </TestSuiteEntity>

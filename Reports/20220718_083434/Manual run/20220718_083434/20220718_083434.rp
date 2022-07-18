@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ReportCollectionEntity>
+   <description></description>
+   <name>20220718_083434</name>
+   <tag></tag>
+   <displayName>20220718_083434</displayName>
+   <reportItemDescriptions>
+      <ReportItemDescription>
+         <reportLocation>Reports/20220718_083434/New Test Suite/20220718_083436</reportLocation>
+         <runConfigDescription>
+            <groupName>Web Desktop</groupName>
+            <profileName>default</profileName>
+            <requireConfigurationData>false</requireConfigurationData>
+            <runConfigurationId>Chrome</runConfigurationId>
+         </runConfigDescription>
+         <testCaseAmount>0</testCaseAmount>
+      </ReportItemDescription>
+      <ReportItemDescription>
+         <reportLocation>Reports/20220718_083434/New Test Suite/20220718_083438</reportLocation>
+         <runConfigDescription>
+            <groupName>Web Desktop</groupName>
+            <profileName>default</profileName>
+            <requireConfigurationData>false</requireConfigurationData>
+            <runConfigurationId>Chrome</runConfigurationId>
+         </runConfigDescription>
+         <testCaseAmount>0</testCaseAmount>
+      </ReportItemDescription>
+      <ReportItemDescription>
+         <reportLocation>Reports/20220718_083434/New Test Suite/20220718_083440</reportLocation>
+         <runConfigDescription>
+            <groupName>Web Desktop</groupName>
+            <profileName>default</profileName>
+            <requireConfigurationData>false</requireConfigurationData>
+            <runConfigurationId>Chrome</runConfigurationId>
+         </runConfigDescription>
+         <testCaseAmount>0</testCaseAmount>
+      </ReportItemDescription>
+      <ReportItemDescription>
+         <reportLocation>Reports/20220718_083434/New Test Suite/20220718_083442</reportLocation>
+         <runConfigDescription>
+            <groupName>Web Desktop</groupName>
+            <profileName>default</profileName>
+            <requireConfigurationData>false</requireConfigurationData>
+            <runConfigurationId>Chrome</runConfigurationId>
+         </runConfigDescription>
+         <testCaseAmount>0</testCaseAmount>
+      </ReportItemDescription>
+      <ReportItemDescription>
+         <reportLocation>Reports/20220718_083434/New Test Suite/20220718_083444</reportLocation>
+         <runConfigDescription>
+            <groupName>Web Desktop</groupName>
+            <profileName>default</profileName>
+            <requireConfigurationData>false</requireConfigurationData>
+            <runConfigurationId>Chrome</runConfigurationId>
+         </runConfigDescription>
+         <testCaseAmount>0</testCaseAmount>
+      </ReportItemDescription>
+      <ReportItemDescription>
+         <reportLocation>Reports/20220718_083434/New Test Suite/20220718_083446</reportLocation>
+         <runConfigDescription>
+            <groupName>Web Desktop</groupName>
+            <profileName>default</profileName>
+            <requireConfigurationData>false</requireConfigurationData>
+            <runConfigurationId>Chrome</runConfigurationId>
+         </runConfigDescription>
+         <testCaseAmount>0</testCaseAmount>
+      </ReportItemDescription>
+      <ReportItemDescription>
+         <reportLocation>Reports/20220718_083434/New Test Suite/20220718_083448</reportLocation>
+         <runConfigDescription>
+            <groupName>Web Desktop</groupName>
+            <profileName>default</profileName>
+            <requireConfigurationData>false</requireConfigurationData>
+            <runConfigurationId>Chrome</runConfigurationId>
+         </runConfigDescription>
+         <testCaseAmount>0</testCaseAmount>
+      </ReportItemDescription>
+      <ReportItemDescription>
+         <reportLocation>Reports/20220718_083434/New Test Suite/20220718_083450</reportLocation>
+         <runConfigDescription>
+            <groupName>Web Desktop</groupName>
+            <profileName>default</profileName>
+            <requireConfigurationData>false</requireConfigurationData>
+            <runConfigurationId>Chrome</runConfigurationId>
+         </runConfigDescription>
+         <testCaseAmount>0</testCaseAmount>
+      </ReportItemDescription>
+   </reportItemDescriptions>
+   <testSuiteCollectionId>Test Suites/Manual run</testSuiteCollectionId>
+</ReportCollectionEntity>
