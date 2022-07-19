@@ -25,7 +25,8 @@ WebUI.setViewPortSize(1920, 1080)
 
 WebUI.click(findTestObject('Object Repository/Page_Concours photo  votez pour la plus bel_494087/button_Accepter  Fermer'))
 
-WebUI.delay(12)
+WebUI.waitForElementVisible(findTestObject('Object Repository/Page_Concours photo  votez pour la plus bel_494087/a_X'), 
+    15)
 
 WebUI.click(findTestObject('Object Repository/Page_Concours photo  votez pour la plus bel_494087/a_X'))
 
