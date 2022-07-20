@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>image1</name>
+   <tag></tag>
+   <elementGuidId>2a607454-388e-4732-970e-a861259f104b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>i.fa.fa-heart</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//img[contains(@class,'thumbnail-img')])[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>35a08a15-6bcc-4f31-bd39-29997ef8ae3f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fa fa-heart</value>
+      <webElementGuid>79299d37-58db-4073-9e4a-97307aeda86d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;gallery_image&quot;)/div[@class=&quot;gallery-zoom-container&quot;]/div[@class=&quot;gallery-container&quot;]/div[@class=&quot;gallery-diapo diapo-simple diapo1&quot;]/div[@class=&quot;thumbnail-info&quot;]/div[@class=&quot;thumbnail-wrapper&quot;]/div[@class=&quot;vote-type&quot;]/div[@id=&quot;vote-box&quot;]/a[@class=&quot;simple-vote&quot;]/i[@class=&quot;fa fa-heart&quot;]</value>
+      <webElementGuid>74879b6f-b5d3-4228-bb22-eea154873994</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Page_Concours photo  votez pour la plus bel_494087/iframe_nous organisons un concours photo ju_500439</value>
+      <webElementGuid>ddb50966-f424-47c9-85d7-2b1f01a7bc55</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>(//img[contains(@class,'thumbnail-img')])[1]</value>
+      <webElementGuid>d27557e5-dce1-41ce-b2b4-fd94f4c82460</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
