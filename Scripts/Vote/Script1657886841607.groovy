@@ -25,11 +25,6 @@ WebUI.setViewPortSize(1920, 1080)
 
 WebUI.click(findTestObject('Object Repository/Page_Concours photo  votez pour la plus bel_494087/button_Accepter  Fermer'))
 
-WebUI.waitForElementVisible(findTestObject('Object Repository/Page_Concours photo  votez pour la plus bel_494087/a_X'), 
-    15)
-
-WebUI.click(findTestObject('Object Repository/Page_Concours photo  votez pour la plus bel_494087/a_X'))
-
 WebUI.delay(1)
 
 WebUI.scrollToElement(findTestObject('Object Repository/Page_Concours photo  votez pour la plus bel_494087/input_concat(Votez pour le plus beau chien de la cte d, , Opale )_jouer'), 
@@ -72,10 +67,47 @@ WebUI.setViewPortSize(1920, 1080)
 
 WebUI.click(findTestObject('Object Repository/Page_Concours photo  votez pour la plus bel_494087/button_Accepter  Fermer'))
 
-WebUI.waitForElementVisible(findTestObject('Object Repository/Page_Concours photo  votez pour la plus bel_494087/a_X'),
-	15)
+WebUI.delay(1)
 
-WebUI.click(findTestObject('Object Repository/Page_Concours photo  votez pour la plus bel_494087/a_X'))
+WebUI.scrollToElement(findTestObject('Object Repository/Page_Concours photo  votez pour la plus bel_494087/input_concat(Votez pour le plus beau chien de la cte d, , Opale )_jouer'),
+	10)
+
+WebUI.sendKeys(findTestObject('Object Repository/Page_Concours photo  votez pour la plus bel_494087/input_concat(Votez pour le plus beau chien de la cte d, , Opale )_jouer'),
+	Keys.chord(Keys.UP))
+
+WebUI.click(findTestObject('Object Repository/Page_Concours photo  votez pour la plus bel_494087/input_concat(Votez pour le plus beau chien de la cte d, , Opale )_jouer'))
+
+if (WebUI.verifyElementPresent(findTestObject('Page_Concours photo  votez pour la plus bel_494087/input_concat(Votez pour le plus beau chien de la cte d, , Opale )_jouer'),
+	1, FailureHandling.OPTIONAL)) {
+	WebUI.click(findTestObject('Object Repository/Page_Concours photo  votez pour la plus bel_494087/input_concat(Votez pour le plus beau chien de la cte d, , Opale )_jouer'))
+}
+
+WebUI.delay(1)
+
+WebUI.setText(findTestObject('Object Repository/Page_Concours photo  votez pour la plus bel_494087/input_trie par_keyword'),
+	'Gaspard')
+
+WebUI.sendKeys(findTestObject('Page_Concours photo  votez pour la plus bel_494087/input_trie par_keyword'), Keys.chord(Keys.ENTER))
+
+WebUI.click(findTestObject('Page_Concours photo  votez pour la plus bel_494087/tri'))
+
+WebUI.click(findTestObject('Page_Concours photo  votez pour la plus bel_494087/plus de votes'))
+
+WebUI.scrollToElement(findTestObject('Page_Concours photo  votez pour la plus bel_494087/image1'), 10)
+
+WebUI.click(findTestObject('Object Repository/Page_Concours photo  votez pour la plus bel_494087/i_Votes_fa fa-heart'))
+
+WebUI.delay(1)
+
+WebUI.closeBrowser()
+
+WebUI.openBrowser('')
+
+WebUI.navigateToUrl('https://lesechosdutouquet.nordlittoral.fr/147787/article/2022-06-30/concours-photo-montrez-nous-la-plus-belle-photo-de-votre-chien-en-promenade-sur#l5lb6r47qsmp9ur58y')
+
+WebUI.setViewPortSize(1920, 1080)
+
+WebUI.click(findTestObject('Object Repository/Page_Concours photo  votez pour la plus bel_494087/button_Accepter  Fermer'))
 
 WebUI.delay(1)
 
@@ -119,10 +151,47 @@ WebUI.setViewPortSize(1920, 1080)
 
 WebUI.click(findTestObject('Object Repository/Page_Concours photo  votez pour la plus bel_494087/button_Accepter  Fermer'))
 
-WebUI.waitForElementVisible(findTestObject('Object Repository/Page_Concours photo  votez pour la plus bel_494087/a_X'),
-	15)
+WebUI.delay(1)
 
-WebUI.click(findTestObject('Object Repository/Page_Concours photo  votez pour la plus bel_494087/a_X'))
+WebUI.scrollToElement(findTestObject('Object Repository/Page_Concours photo  votez pour la plus bel_494087/input_concat(Votez pour le plus beau chien de la cte d, , Opale )_jouer'),
+	10)
+
+WebUI.sendKeys(findTestObject('Object Repository/Page_Concours photo  votez pour la plus bel_494087/input_concat(Votez pour le plus beau chien de la cte d, , Opale )_jouer'),
+	Keys.chord(Keys.UP))
+
+WebUI.click(findTestObject('Object Repository/Page_Concours photo  votez pour la plus bel_494087/input_concat(Votez pour le plus beau chien de la cte d, , Opale )_jouer'))
+
+if (WebUI.verifyElementPresent(findTestObject('Page_Concours photo  votez pour la plus bel_494087/input_concat(Votez pour le plus beau chien de la cte d, , Opale )_jouer'),
+	1, FailureHandling.OPTIONAL)) {
+	WebUI.click(findTestObject('Object Repository/Page_Concours photo  votez pour la plus bel_494087/input_concat(Votez pour le plus beau chien de la cte d, , Opale )_jouer'))
+}
+
+WebUI.delay(1)
+
+WebUI.setText(findTestObject('Object Repository/Page_Concours photo  votez pour la plus bel_494087/input_trie par_keyword'),
+	'Gaspard')
+
+WebUI.sendKeys(findTestObject('Page_Concours photo  votez pour la plus bel_494087/input_trie par_keyword'), Keys.chord(Keys.ENTER))
+
+WebUI.click(findTestObject('Page_Concours photo  votez pour la plus bel_494087/tri'))
+
+WebUI.click(findTestObject('Page_Concours photo  votez pour la plus bel_494087/plus de votes'))
+
+WebUI.scrollToElement(findTestObject('Page_Concours photo  votez pour la plus bel_494087/image1'), 10)
+
+WebUI.click(findTestObject('Object Repository/Page_Concours photo  votez pour la plus bel_494087/i_Votes_fa fa-heart'))
+
+WebUI.delay(1)
+
+WebUI.closeBrowser()
+
+WebUI.openBrowser('')
+
+WebUI.navigateToUrl('https://lesechosdutouquet.nordlittoral.fr/147787/article/2022-06-30/concours-photo-montrez-nous-la-plus-belle-photo-de-votre-chien-en-promenade-sur#l5lb6r47qsmp9ur58y')
+
+WebUI.setViewPortSize(1920, 1080)
+
+WebUI.click(findTestObject('Object Repository/Page_Concours photo  votez pour la plus bel_494087/button_Accepter  Fermer'))
 
 WebUI.delay(1)
 
@@ -166,10 +235,47 @@ WebUI.setViewPortSize(1920, 1080)
 
 WebUI.click(findTestObject('Object Repository/Page_Concours photo  votez pour la plus bel_494087/button_Accepter  Fermer'))
 
-WebUI.waitForElementVisible(findTestObject('Object Repository/Page_Concours photo  votez pour la plus bel_494087/a_X'),
-	15)
+WebUI.delay(1)
 
-WebUI.click(findTestObject('Object Repository/Page_Concours photo  votez pour la plus bel_494087/a_X'))
+WebUI.scrollToElement(findTestObject('Object Repository/Page_Concours photo  votez pour la plus bel_494087/input_concat(Votez pour le plus beau chien de la cte d, , Opale )_jouer'),
+	10)
+
+WebUI.sendKeys(findTestObject('Object Repository/Page_Concours photo  votez pour la plus bel_494087/input_concat(Votez pour le plus beau chien de la cte d, , Opale )_jouer'),
+	Keys.chord(Keys.UP))
+
+WebUI.click(findTestObject('Object Repository/Page_Concours photo  votez pour la plus bel_494087/input_concat(Votez pour le plus beau chien de la cte d, , Opale )_jouer'))
+
+if (WebUI.verifyElementPresent(findTestObject('Page_Concours photo  votez pour la plus bel_494087/input_concat(Votez pour le plus beau chien de la cte d, , Opale )_jouer'),
+	1, FailureHandling.OPTIONAL)) {
+	WebUI.click(findTestObject('Object Repository/Page_Concours photo  votez pour la plus bel_494087/input_concat(Votez pour le plus beau chien de la cte d, , Opale )_jouer'))
+}
+
+WebUI.delay(1)
+
+WebUI.setText(findTestObject('Object Repository/Page_Concours photo  votez pour la plus bel_494087/input_trie par_keyword'),
+	'Gaspard')
+
+WebUI.sendKeys(findTestObject('Page_Concours photo  votez pour la plus bel_494087/input_trie par_keyword'), Keys.chord(Keys.ENTER))
+
+WebUI.click(findTestObject('Page_Concours photo  votez pour la plus bel_494087/tri'))
+
+WebUI.click(findTestObject('Page_Concours photo  votez pour la plus bel_494087/plus de votes'))
+
+WebUI.scrollToElement(findTestObject('Page_Concours photo  votez pour la plus bel_494087/image1'), 10)
+
+WebUI.click(findTestObject('Object Repository/Page_Concours photo  votez pour la plus bel_494087/i_Votes_fa fa-heart'))
+
+WebUI.delay(1)
+
+WebUI.closeBrowser()
+
+WebUI.openBrowser('')
+
+WebUI.navigateToUrl('https://lesechosdutouquet.nordlittoral.fr/147787/article/2022-06-30/concours-photo-montrez-nous-la-plus-belle-photo-de-votre-chien-en-promenade-sur#l5lb6r47qsmp9ur58y')
+
+WebUI.setViewPortSize(1920, 1080)
+
+WebUI.click(findTestObject('Object Repository/Page_Concours photo  votez pour la plus bel_494087/button_Accepter  Fermer'))
 
 WebUI.delay(1)
 
@@ -213,10 +319,47 @@ WebUI.setViewPortSize(1920, 1080)
 
 WebUI.click(findTestObject('Object Repository/Page_Concours photo  votez pour la plus bel_494087/button_Accepter  Fermer'))
 
-WebUI.waitForElementVisible(findTestObject('Object Repository/Page_Concours photo  votez pour la plus bel_494087/a_X'),
-	15)
+WebUI.delay(1)
 
-WebUI.click(findTestObject('Object Repository/Page_Concours photo  votez pour la plus bel_494087/a_X'))
+WebUI.scrollToElement(findTestObject('Object Repository/Page_Concours photo  votez pour la plus bel_494087/input_concat(Votez pour le plus beau chien de la cte d, , Opale )_jouer'),
+	10)
+
+WebUI.sendKeys(findTestObject('Object Repository/Page_Concours photo  votez pour la plus bel_494087/input_concat(Votez pour le plus beau chien de la cte d, , Opale )_jouer'),
+	Keys.chord(Keys.UP))
+
+WebUI.click(findTestObject('Object Repository/Page_Concours photo  votez pour la plus bel_494087/input_concat(Votez pour le plus beau chien de la cte d, , Opale )_jouer'))
+
+if (WebUI.verifyElementPresent(findTestObject('Page_Concours photo  votez pour la plus bel_494087/input_concat(Votez pour le plus beau chien de la cte d, , Opale )_jouer'),
+	1, FailureHandling.OPTIONAL)) {
+	WebUI.click(findTestObject('Object Repository/Page_Concours photo  votez pour la plus bel_494087/input_concat(Votez pour le plus beau chien de la cte d, , Opale )_jouer'))
+}
+
+WebUI.delay(1)
+
+WebUI.setText(findTestObject('Object Repository/Page_Concours photo  votez pour la plus bel_494087/input_trie par_keyword'),
+	'Gaspard')
+
+WebUI.sendKeys(findTestObject('Page_Concours photo  votez pour la plus bel_494087/input_trie par_keyword'), Keys.chord(Keys.ENTER))
+
+WebUI.click(findTestObject('Page_Concours photo  votez pour la plus bel_494087/tri'))
+
+WebUI.click(findTestObject('Page_Concours photo  votez pour la plus bel_494087/plus de votes'))
+
+WebUI.scrollToElement(findTestObject('Page_Concours photo  votez pour la plus bel_494087/image1'), 10)
+
+WebUI.click(findTestObject('Object Repository/Page_Concours photo  votez pour la plus bel_494087/i_Votes_fa fa-heart'))
+
+WebUI.delay(1)
+
+WebUI.closeBrowser()
+
+WebUI.openBrowser('')
+
+WebUI.navigateToUrl('https://lesechosdutouquet.nordlittoral.fr/147787/article/2022-06-30/concours-photo-montrez-nous-la-plus-belle-photo-de-votre-chien-en-promenade-sur#l5lb6r47qsmp9ur58y')
+
+WebUI.setViewPortSize(1920, 1080)
+
+WebUI.click(findTestObject('Object Repository/Page_Concours photo  votez pour la plus bel_494087/button_Accepter  Fermer'))
 
 WebUI.delay(1)
 
@@ -260,10 +403,47 @@ WebUI.setViewPortSize(1920, 1080)
 
 WebUI.click(findTestObject('Object Repository/Page_Concours photo  votez pour la plus bel_494087/button_Accepter  Fermer'))
 
-WebUI.waitForElementVisible(findTestObject('Object Repository/Page_Concours photo  votez pour la plus bel_494087/a_X'),
-	15)
+WebUI.delay(1)
 
-WebUI.click(findTestObject('Object Repository/Page_Concours photo  votez pour la plus bel_494087/a_X'))
+WebUI.scrollToElement(findTestObject('Object Repository/Page_Concours photo  votez pour la plus bel_494087/input_concat(Votez pour le plus beau chien de la cte d, , Opale )_jouer'),
+	10)
+
+WebUI.sendKeys(findTestObject('Object Repository/Page_Concours photo  votez pour la plus bel_494087/input_concat(Votez pour le plus beau chien de la cte d, , Opale )_jouer'),
+	Keys.chord(Keys.UP))
+
+WebUI.click(findTestObject('Object Repository/Page_Concours photo  votez pour la plus bel_494087/input_concat(Votez pour le plus beau chien de la cte d, , Opale )_jouer'))
+
+if (WebUI.verifyElementPresent(findTestObject('Page_Concours photo  votez pour la plus bel_494087/input_concat(Votez pour le plus beau chien de la cte d, , Opale )_jouer'),
+	1, FailureHandling.OPTIONAL)) {
+	WebUI.click(findTestObject('Object Repository/Page_Concours photo  votez pour la plus bel_494087/input_concat(Votez pour le plus beau chien de la cte d, , Opale )_jouer'))
+}
+
+WebUI.delay(1)
+
+WebUI.setText(findTestObject('Object Repository/Page_Concours photo  votez pour la plus bel_494087/input_trie par_keyword'),
+	'Gaspard')
+
+WebUI.sendKeys(findTestObject('Page_Concours photo  votez pour la plus bel_494087/input_trie par_keyword'), Keys.chord(Keys.ENTER))
+
+WebUI.click(findTestObject('Page_Concours photo  votez pour la plus bel_494087/tri'))
+
+WebUI.click(findTestObject('Page_Concours photo  votez pour la plus bel_494087/plus de votes'))
+
+WebUI.scrollToElement(findTestObject('Page_Concours photo  votez pour la plus bel_494087/image1'), 10)
+
+WebUI.click(findTestObject('Object Repository/Page_Concours photo  votez pour la plus bel_494087/i_Votes_fa fa-heart'))
+
+WebUI.delay(1)
+
+WebUI.closeBrowser()
+
+WebUI.openBrowser('')
+
+WebUI.navigateToUrl('https://lesechosdutouquet.nordlittoral.fr/147787/article/2022-06-30/concours-photo-montrez-nous-la-plus-belle-photo-de-votre-chien-en-promenade-sur#l5lb6r47qsmp9ur58y')
+
+WebUI.setViewPortSize(1920, 1080)
+
+WebUI.click(findTestObject('Object Repository/Page_Concours photo  votez pour la plus bel_494087/button_Accepter  Fermer'))
 
 WebUI.delay(1)
 
@@ -307,11 +487,6 @@ WebUI.setViewPortSize(1920, 1080)
 
 WebUI.click(findTestObject('Object Repository/Page_Concours photo  votez pour la plus bel_494087/button_Accepter  Fermer'))
 
-WebUI.waitForElementVisible(findTestObject('Object Repository/Page_Concours photo  votez pour la plus bel_494087/a_X'),
-	15)
-
-WebUI.click(findTestObject('Object Repository/Page_Concours photo  votez pour la plus bel_494087/a_X'))
-
 WebUI.delay(1)
 
 WebUI.scrollToElement(findTestObject('Object Repository/Page_Concours photo  votez pour la plus bel_494087/input_concat(Votez pour le plus beau chien de la cte d, , Opale )_jouer'),
@@ -354,11 +529,6 @@ WebUI.setViewPortSize(1920, 1080)
 
 WebUI.click(findTestObject('Object Repository/Page_Concours photo  votez pour la plus bel_494087/button_Accepter  Fermer'))
 
-WebUI.waitForElementVisible(findTestObject('Object Repository/Page_Concours photo  votez pour la plus bel_494087/a_X'),
-	15)
-
-WebUI.click(findTestObject('Object Repository/Page_Concours photo  votez pour la plus bel_494087/a_X'))
-
 WebUI.delay(1)
 
 WebUI.scrollToElement(findTestObject('Object Repository/Page_Concours photo  votez pour la plus bel_494087/input_concat(Votez pour le plus beau chien de la cte d, , Opale )_jouer'),
@@ -400,246 +570,6 @@ WebUI.navigateToUrl('https://lesechosdutouquet.nordlittoral.fr/147787/article/20
 WebUI.setViewPortSize(1920, 1080)
 
 WebUI.click(findTestObject('Object Repository/Page_Concours photo  votez pour la plus bel_494087/button_Accepter  Fermer'))
-
-WebUI.waitForElementVisible(findTestObject('Object Repository/Page_Concours photo  votez pour la plus bel_494087/a_X'),
-	15)
-
-WebUI.click(findTestObject('Object Repository/Page_Concours photo  votez pour la plus bel_494087/a_X'))
-
-WebUI.delay(1)
-
-WebUI.scrollToElement(findTestObject('Object Repository/Page_Concours photo  votez pour la plus bel_494087/input_concat(Votez pour le plus beau chien de la cte d, , Opale )_jouer'),
-	10)
-
-WebUI.sendKeys(findTestObject('Object Repository/Page_Concours photo  votez pour la plus bel_494087/input_concat(Votez pour le plus beau chien de la cte d, , Opale )_jouer'),
-	Keys.chord(Keys.UP))
-
-WebUI.click(findTestObject('Object Repository/Page_Concours photo  votez pour la plus bel_494087/input_concat(Votez pour le plus beau chien de la cte d, , Opale )_jouer'))
-
-if (WebUI.verifyElementPresent(findTestObject('Page_Concours photo  votez pour la plus bel_494087/input_concat(Votez pour le plus beau chien de la cte d, , Opale )_jouer'),
-	1, FailureHandling.OPTIONAL)) {
-	WebUI.click(findTestObject('Object Repository/Page_Concours photo  votez pour la plus bel_494087/input_concat(Votez pour le plus beau chien de la cte d, , Opale )_jouer'))
-}
-
-WebUI.delay(1)
-
-WebUI.setText(findTestObject('Object Repository/Page_Concours photo  votez pour la plus bel_494087/input_trie par_keyword'),
-	'Gaspard')
-
-WebUI.sendKeys(findTestObject('Page_Concours photo  votez pour la plus bel_494087/input_trie par_keyword'), Keys.chord(Keys.ENTER))
-
-WebUI.click(findTestObject('Page_Concours photo  votez pour la plus bel_494087/tri'))
-
-WebUI.click(findTestObject('Page_Concours photo  votez pour la plus bel_494087/plus de votes'))
-
-WebUI.scrollToElement(findTestObject('Page_Concours photo  votez pour la plus bel_494087/image1'), 10)
-
-WebUI.click(findTestObject('Object Repository/Page_Concours photo  votez pour la plus bel_494087/i_Votes_fa fa-heart'))
-
-WebUI.delay(1)
-
-WebUI.closeBrowser()
-
-WebUI.openBrowser('')
-
-WebUI.navigateToUrl('https://lesechosdutouquet.nordlittoral.fr/147787/article/2022-06-30/concours-photo-montrez-nous-la-plus-belle-photo-de-votre-chien-en-promenade-sur#l5lb6r47qsmp9ur58y')
-
-WebUI.setViewPortSize(1920, 1080)
-
-WebUI.click(findTestObject('Object Repository/Page_Concours photo  votez pour la plus bel_494087/button_Accepter  Fermer'))
-
-WebUI.waitForElementVisible(findTestObject('Object Repository/Page_Concours photo  votez pour la plus bel_494087/a_X'),
-	15)
-
-WebUI.click(findTestObject('Object Repository/Page_Concours photo  votez pour la plus bel_494087/a_X'))
-
-WebUI.delay(1)
-
-WebUI.scrollToElement(findTestObject('Object Repository/Page_Concours photo  votez pour la plus bel_494087/input_concat(Votez pour le plus beau chien de la cte d, , Opale )_jouer'),
-	10)
-
-WebUI.sendKeys(findTestObject('Object Repository/Page_Concours photo  votez pour la plus bel_494087/input_concat(Votez pour le plus beau chien de la cte d, , Opale )_jouer'),
-	Keys.chord(Keys.UP))
-
-WebUI.click(findTestObject('Object Repository/Page_Concours photo  votez pour la plus bel_494087/input_concat(Votez pour le plus beau chien de la cte d, , Opale )_jouer'))
-
-if (WebUI.verifyElementPresent(findTestObject('Page_Concours photo  votez pour la plus bel_494087/input_concat(Votez pour le plus beau chien de la cte d, , Opale )_jouer'),
-	1, FailureHandling.OPTIONAL)) {
-	WebUI.click(findTestObject('Object Repository/Page_Concours photo  votez pour la plus bel_494087/input_concat(Votez pour le plus beau chien de la cte d, , Opale )_jouer'))
-}
-
-WebUI.delay(1)
-
-WebUI.setText(findTestObject('Object Repository/Page_Concours photo  votez pour la plus bel_494087/input_trie par_keyword'),
-	'Gaspard')
-
-WebUI.sendKeys(findTestObject('Page_Concours photo  votez pour la plus bel_494087/input_trie par_keyword'), Keys.chord(Keys.ENTER))
-
-WebUI.click(findTestObject('Page_Concours photo  votez pour la plus bel_494087/tri'))
-
-WebUI.click(findTestObject('Page_Concours photo  votez pour la plus bel_494087/plus de votes'))
-
-WebUI.scrollToElement(findTestObject('Page_Concours photo  votez pour la plus bel_494087/image1'), 10)
-
-WebUI.click(findTestObject('Object Repository/Page_Concours photo  votez pour la plus bel_494087/i_Votes_fa fa-heart'))
-
-WebUI.delay(1)
-
-WebUI.closeBrowser()
-
-WebUI.openBrowser('')
-
-WebUI.navigateToUrl('https://lesechosdutouquet.nordlittoral.fr/147787/article/2022-06-30/concours-photo-montrez-nous-la-plus-belle-photo-de-votre-chien-en-promenade-sur#l5lb6r47qsmp9ur58y')
-
-WebUI.setViewPortSize(1920, 1080)
-
-WebUI.click(findTestObject('Object Repository/Page_Concours photo  votez pour la plus bel_494087/button_Accepter  Fermer'))
-
-WebUI.waitForElementVisible(findTestObject('Object Repository/Page_Concours photo  votez pour la plus bel_494087/a_X'),
-	15)
-
-WebUI.click(findTestObject('Object Repository/Page_Concours photo  votez pour la plus bel_494087/a_X'))
-
-WebUI.delay(1)
-
-WebUI.scrollToElement(findTestObject('Object Repository/Page_Concours photo  votez pour la plus bel_494087/input_concat(Votez pour le plus beau chien de la cte d, , Opale )_jouer'),
-	10)
-
-WebUI.sendKeys(findTestObject('Object Repository/Page_Concours photo  votez pour la plus bel_494087/input_concat(Votez pour le plus beau chien de la cte d, , Opale )_jouer'),
-	Keys.chord(Keys.UP))
-
-WebUI.click(findTestObject('Object Repository/Page_Concours photo  votez pour la plus bel_494087/input_concat(Votez pour le plus beau chien de la cte d, , Opale )_jouer'))
-
-if (WebUI.verifyElementPresent(findTestObject('Page_Concours photo  votez pour la plus bel_494087/input_concat(Votez pour le plus beau chien de la cte d, , Opale )_jouer'),
-	1, FailureHandling.OPTIONAL)) {
-	WebUI.click(findTestObject('Object Repository/Page_Concours photo  votez pour la plus bel_494087/input_concat(Votez pour le plus beau chien de la cte d, , Opale )_jouer'))
-}
-
-WebUI.delay(1)
-
-WebUI.setText(findTestObject('Object Repository/Page_Concours photo  votez pour la plus bel_494087/input_trie par_keyword'),
-	'Gaspard')
-
-WebUI.sendKeys(findTestObject('Page_Concours photo  votez pour la plus bel_494087/input_trie par_keyword'), Keys.chord(Keys.ENTER))
-
-WebUI.click(findTestObject('Page_Concours photo  votez pour la plus bel_494087/tri'))
-
-WebUI.click(findTestObject('Page_Concours photo  votez pour la plus bel_494087/plus de votes'))
-
-WebUI.scrollToElement(findTestObject('Page_Concours photo  votez pour la plus bel_494087/image1'), 10)
-
-WebUI.click(findTestObject('Object Repository/Page_Concours photo  votez pour la plus bel_494087/i_Votes_fa fa-heart'))
-
-WebUI.delay(1)
-
-WebUI.closeBrowser()
-
-WebUI.openBrowser('')
-
-WebUI.navigateToUrl('https://lesechosdutouquet.nordlittoral.fr/147787/article/2022-06-30/concours-photo-montrez-nous-la-plus-belle-photo-de-votre-chien-en-promenade-sur#l5lb6r47qsmp9ur58y')
-
-WebUI.setViewPortSize(1920, 1080)
-
-WebUI.click(findTestObject('Object Repository/Page_Concours photo  votez pour la plus bel_494087/button_Accepter  Fermer'))
-
-WebUI.waitForElementVisible(findTestObject('Object Repository/Page_Concours photo  votez pour la plus bel_494087/a_X'),
-	15)
-
-WebUI.click(findTestObject('Object Repository/Page_Concours photo  votez pour la plus bel_494087/a_X'))
-
-WebUI.delay(1)
-
-WebUI.scrollToElement(findTestObject('Object Repository/Page_Concours photo  votez pour la plus bel_494087/input_concat(Votez pour le plus beau chien de la cte d, , Opale )_jouer'),
-	10)
-
-WebUI.sendKeys(findTestObject('Object Repository/Page_Concours photo  votez pour la plus bel_494087/input_concat(Votez pour le plus beau chien de la cte d, , Opale )_jouer'),
-	Keys.chord(Keys.UP))
-
-WebUI.click(findTestObject('Object Repository/Page_Concours photo  votez pour la plus bel_494087/input_concat(Votez pour le plus beau chien de la cte d, , Opale )_jouer'))
-
-if (WebUI.verifyElementPresent(findTestObject('Page_Concours photo  votez pour la plus bel_494087/input_concat(Votez pour le plus beau chien de la cte d, , Opale )_jouer'),
-	1, FailureHandling.OPTIONAL)) {
-	WebUI.click(findTestObject('Object Repository/Page_Concours photo  votez pour la plus bel_494087/input_concat(Votez pour le plus beau chien de la cte d, , Opale )_jouer'))
-}
-
-WebUI.delay(1)
-
-WebUI.setText(findTestObject('Object Repository/Page_Concours photo  votez pour la plus bel_494087/input_trie par_keyword'),
-	'Gaspard')
-
-WebUI.sendKeys(findTestObject('Page_Concours photo  votez pour la plus bel_494087/input_trie par_keyword'), Keys.chord(Keys.ENTER))
-
-WebUI.click(findTestObject('Page_Concours photo  votez pour la plus bel_494087/tri'))
-
-WebUI.click(findTestObject('Page_Concours photo  votez pour la plus bel_494087/plus de votes'))
-
-WebUI.scrollToElement(findTestObject('Page_Concours photo  votez pour la plus bel_494087/image1'), 10)
-
-WebUI.click(findTestObject('Object Repository/Page_Concours photo  votez pour la plus bel_494087/i_Votes_fa fa-heart'))
-
-WebUI.delay(1)
-
-WebUI.closeBrowser()
-
-WebUI.openBrowser('')
-
-WebUI.navigateToUrl('https://lesechosdutouquet.nordlittoral.fr/147787/article/2022-06-30/concours-photo-montrez-nous-la-plus-belle-photo-de-votre-chien-en-promenade-sur#l5lb6r47qsmp9ur58y')
-
-WebUI.setViewPortSize(1920, 1080)
-
-WebUI.click(findTestObject('Object Repository/Page_Concours photo  votez pour la plus bel_494087/button_Accepter  Fermer'))
-
-WebUI.waitForElementVisible(findTestObject('Object Repository/Page_Concours photo  votez pour la plus bel_494087/a_X'),
-	15)
-
-WebUI.click(findTestObject('Object Repository/Page_Concours photo  votez pour la plus bel_494087/a_X'))
-
-WebUI.delay(1)
-
-WebUI.scrollToElement(findTestObject('Object Repository/Page_Concours photo  votez pour la plus bel_494087/input_concat(Votez pour le plus beau chien de la cte d, , Opale )_jouer'),
-	10)
-
-WebUI.sendKeys(findTestObject('Object Repository/Page_Concours photo  votez pour la plus bel_494087/input_concat(Votez pour le plus beau chien de la cte d, , Opale )_jouer'),
-	Keys.chord(Keys.UP))
-
-WebUI.click(findTestObject('Object Repository/Page_Concours photo  votez pour la plus bel_494087/input_concat(Votez pour le plus beau chien de la cte d, , Opale )_jouer'))
-
-if (WebUI.verifyElementPresent(findTestObject('Page_Concours photo  votez pour la plus bel_494087/input_concat(Votez pour le plus beau chien de la cte d, , Opale )_jouer'),
-	1, FailureHandling.OPTIONAL)) {
-	WebUI.click(findTestObject('Object Repository/Page_Concours photo  votez pour la plus bel_494087/input_concat(Votez pour le plus beau chien de la cte d, , Opale )_jouer'))
-}
-
-WebUI.delay(1)
-
-WebUI.setText(findTestObject('Object Repository/Page_Concours photo  votez pour la plus bel_494087/input_trie par_keyword'),
-	'Gaspard')
-
-WebUI.sendKeys(findTestObject('Page_Concours photo  votez pour la plus bel_494087/input_trie par_keyword'), Keys.chord(Keys.ENTER))
-
-WebUI.click(findTestObject('Page_Concours photo  votez pour la plus bel_494087/tri'))
-
-WebUI.click(findTestObject('Page_Concours photo  votez pour la plus bel_494087/plus de votes'))
-
-WebUI.scrollToElement(findTestObject('Page_Concours photo  votez pour la plus bel_494087/image1'), 10)
-
-WebUI.click(findTestObject('Object Repository/Page_Concours photo  votez pour la plus bel_494087/i_Votes_fa fa-heart'))
-
-WebUI.delay(1)
-
-WebUI.closeBrowser()
-
-WebUI.openBrowser('')
-
-WebUI.navigateToUrl('https://lesechosdutouquet.nordlittoral.fr/147787/article/2022-06-30/concours-photo-montrez-nous-la-plus-belle-photo-de-votre-chien-en-promenade-sur#l5lb6r47qsmp9ur58y')
-
-WebUI.setViewPortSize(1920, 1080)
-
-WebUI.click(findTestObject('Object Repository/Page_Concours photo  votez pour la plus bel_494087/button_Accepter  Fermer'))
-
-WebUI.waitForElementVisible(findTestObject('Object Repository/Page_Concours photo  votez pour la plus bel_494087/a_X'),
-	15)
-
-WebUI.click(findTestObject('Object Repository/Page_Concours photo  votez pour la plus bel_494087/a_X'))
 
 WebUI.delay(1)
 
