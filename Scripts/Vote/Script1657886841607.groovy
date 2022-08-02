@@ -17,7 +17,11 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-for (int i = 0; i < 419; i++) {
+int count;
+
+count = 300 + (100 * Math.random());
+
+for (int i = 0; i < count; i++) {
     WebUI.openBrowser('')
 
     WebUI.navigateToUrl('https://lesechosdutouquet.nordlittoral.fr/147787/article/2022-06-30/concours-photo-montrez-nous-la-plus-belle-photo-de-votre-chien-en-promenade-sur#l5lb6r47qsmp9ur58y')
